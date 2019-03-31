@@ -21,7 +21,7 @@ namespace ProductsAPI.Controllers
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
-            return "value";
+            return "valu";
         }
 
         // POST api/values
